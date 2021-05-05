@@ -15,7 +15,7 @@ The command above should build and ru  n the following services
 
 ## Populate data
 -----
-In order to populate data into the server i've created a simple script that should run 2000 requests filling data to the mongodb server through the servers api
+In order to populate data into the server i've created a simple script that should some requests filling data to the mongodb server through the servers api
 
 ``` sh
 bash test_add_users.sh
